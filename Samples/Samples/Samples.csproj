@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8C87CEB-F550-4046-903B-B91661E43C36}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Samples</RootNamespace>
+    <AssemblyName>Samples</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Functions\CodeFile1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assessment\SeanLehmanAssessment.csx" />
+    <None Include="BasicTypes\04-TypeConversions.csx" />
+    <None Include="BasicTypes\01-BasicTypes.csx" />
+    <None Include="BasicTypes\02-ArithemeticOperators.csx" />
+    <None Include="BasicTypes\03-StringConstruction.csx" />
+    <None Include="BasicTypes\05-DateTime.csx" />
+    <None Include="Collections\01-Arrays.csx" />
+    <None Include="BasicTypes\C1-valueTypes.csx" />
+    <None Include="Collections\02-Lists.csx" />
+    <None Include="Collections\03-Dictionaries.csx" />
+    <None Include="Collections\C1-ListArray.csx" />
+    <None Include="Collections\C2-Dictionary.csx" />
+    <None Include="FlowControl\01-DoLoops.csx" />
+    <None Include="FlowControl\02-ForLoops.csx" />
+    <None Include="FlowControl\03-Conditionals.csx" />
+    <None Include="FlowControl\04-Switch.csx" />
+    <None Include="FlowControl\05-Exceptions.csx" />
+    <None Include="FlowControl\C1-DoLoops.csx" />
+    <None Include="Functions\01-Actions.csx" />
+    <None Include="Functions\01-Challenge-FizzBuzz-Silver.csx" />
+    <None Include="Functions\02-Functions.csx" />
+    <None Include="OOP\01-Principles.csx" />
+    <None Include="OOP\02-Challenge Bronze.csx" />
+    <None Include="OOP\02-GoldChallenge-Solution.csx" />
+    <None Include="Functions\04-FunctionsRevisited.csx" />
+    <None Include="OOP\04-StaticClasses.csx" />
+    <None Include="OOP\05-Interfaces.csx" />
+    <None Include="OOP\controls.csx" />
+    <None Include="OOP\InterfaceSilver.csx" />
+    <None Include="OOP\IntrfaceBronzeSolution.csx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
