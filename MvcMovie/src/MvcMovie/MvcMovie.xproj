@@ -6,7 +6,7 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>20c5c73d-fa1e-4f49-92f9-280c385607f6</ProjectGuid>
+    <ProjectGuid>cbbb8d75-9e95-4d82-9fba-096016924caf</ProjectGuid>
     <RootNamespace>MvcMovie</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
