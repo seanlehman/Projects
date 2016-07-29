@@ -10,6 +10,7 @@ namespace Proj1Strings
     {
         static void Main(string[] args)
         {
+            // Strings
             string s = "a string";
             string s2 = "This is a \r\n multi-line string";
             Console.WriteLine(s);
