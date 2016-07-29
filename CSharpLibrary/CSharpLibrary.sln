@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj1Strings", "ConsoleAppl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Overloading_Demo", "Classes_Overloading_Demo\Classes_Overloading_Demo.csproj", "{1908F95B-96FB-4657-BC53-282D0E9E9E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj1RevString", "Proj1RevString\Proj1RevString.csproj", "{365BCA3D-2825-4E4D-8E18-1F30A2E778EF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{1908F95B-96FB-4657-BC53-282D0E9E9E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1908F95B-96FB-4657-BC53-282D0E9E9E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1908F95B-96FB-4657-BC53-282D0E9E9E40}.Release|Any CPU.Build.0 = Release|Any CPU
-		{365BCA3D-2825-4E4D-8E18-1F30A2E778EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{365BCA3D-2825-4E4D-8E18-1F30A2E778EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{365BCA3D-2825-4E4D-8E18-1F30A2E778EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{365BCA3D-2825-4E4D-8E18-1F30A2E778EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
