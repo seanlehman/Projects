@@ -13,10 +13,10 @@ namespace Proj1Integers
             int i = 54;  //Integer type (32 bit)
             Console.WriteLine($"32 bit integer, {i}");
 
-            short sh = 32767;
+            short sh = 32767;  //Short Integer (16 bit)
             Console.WriteLine($"16 bit integer, {sh}");
 
-            long Lo = 54678656789;
+            long Lo = 54678656789;  //Long Integer (64 Bit)
             Console.WriteLine($"64 bit integer, {Lo}");
 
             //Adding integers
@@ -37,12 +37,13 @@ namespace Proj1Integers
             int c3 = a3 * b3;
             Console.WriteLine($"Multiplying a * b = {c3} where a = 5 and b = 3");
 
+            //Dividing integers
             int a4 = 6;
             int b4 = 3;
             int c4 = a4 / b4;
             Console.WriteLine($"Dividing a / b = {c4} where a = 6 and b = 3");
 
-
+            //Using 
             double a5 = 2;
             double b5 = 3;
             double c5 = Math.Pow(a5, b5);
