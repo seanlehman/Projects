@@ -43,7 +43,7 @@ namespace Proj1Integers
             int c4 = a4 / b4;
             Console.WriteLine($"Dividing a / b = {c4} where a = 6 and b = 3");
 
-            //Using 
+            //Using Exponents, a5 to the power of b5
             double a5 = 2;
             double b5 = 3;
             double c5 = Math.Pow(a5, b5);
