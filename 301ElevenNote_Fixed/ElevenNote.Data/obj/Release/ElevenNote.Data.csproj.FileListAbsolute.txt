@@ -1,0 +1,6 @@
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed\bin\Release\ElevenNote.Data.dll.config
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed\bin\Release\ElevenNote.Data.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed\bin\Release\ElevenNote.Data.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed\ElevenNote.Data\obj\Release\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed\ElevenNote.Data\obj\Release\ElevenNote.Data.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed\ElevenNote.Data\obj\Release\ElevenNote.Data.pdb
