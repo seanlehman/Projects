@@ -41,3 +41,4 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ContosoUniversity\Con
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
