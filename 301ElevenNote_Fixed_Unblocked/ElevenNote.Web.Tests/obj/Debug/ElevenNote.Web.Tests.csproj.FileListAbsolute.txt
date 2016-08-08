@@ -1,0 +1,205 @@
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.dll.config
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.pdb
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Data.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Owin.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Services.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Models.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\EntityFramework.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.pdb
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Data.pdb
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Services.pdb
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Models.pdb
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\EntityFramework.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.csprojResolveAssemblyReference.cache
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.dll
+C:\dev\ElevenFifty\Net301August2016\ElevenNote\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.pdb
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.dll.config
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.pdb
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Data.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Owin.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Services.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Models.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\EntityFramework.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.pdb
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Data.pdb
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Services.pdb
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Models.pdb
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\EntityFramework.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.csprojResolveAssemblyReference.cache
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.dll
+C:\PROJECT_MAIN\ElevenFifty_301\ElevenNote\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.dll.config
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.Tests.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Data.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Owin.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Services.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Models.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Web.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Web.Tests\obj\Debug\ElevenNote.Web.Tests.pdb
