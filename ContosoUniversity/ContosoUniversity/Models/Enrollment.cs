@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ContosoUniversity.Models
+﻿namespace ContosoUniversity.Models
 {
     public enum Grade
     {
         A, B, C, D, F
     }
+
     public class Enrollment
     {
         public int EnrollmentID { get; set; }
@@ -16,6 +14,5 @@ namespace ContosoUniversity.Models
 
         public virtual Course Course { get; set; }
         public virtual Student Student { get; set; }
-
     }
 }
