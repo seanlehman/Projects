@@ -8,7 +8,6 @@ namespace GEMSMart.Models
 {
     public class Customer
     {
-        [Key]
         public int CustomerId { get; set; }
         public string LastName { get; set; }
         public string FirstMidName { get; set; }
