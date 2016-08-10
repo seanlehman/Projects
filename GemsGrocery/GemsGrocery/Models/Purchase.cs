@@ -24,6 +24,6 @@ namespace GemsGrocery.Models
         public virtual Product Product { get; set; }
         public virtual Employee Employee { get; set; }
         public virtual Department Department { get; set; }
-
+       
     }
 }
