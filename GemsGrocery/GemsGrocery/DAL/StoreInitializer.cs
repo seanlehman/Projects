@@ -41,7 +41,7 @@ namespace GEMSGrocery.DAL
 
             var purchases = new List<Purchase>
             {
-            new Purchase{CustId=1,ProdId=1050,PurchDate=DateTime.Parse("2016-06-01"),ProdQty=},
+            new Purchase{CustId=1,ProdId=1050,PurchDate=DateTime.Parse("2016-06-01")},
             new Purchase{CustId=1,ProdId=4022,PurchDate=DateTime.Parse("2016-06-01")},
             new Purchase{CustId=1,ProdId=4041,PurchDate=DateTime.Parse("2016-06-01")},
             new Purchase{CustId=2,ProdId=1045,PurchDate=DateTime.Parse("2016-06-01")},

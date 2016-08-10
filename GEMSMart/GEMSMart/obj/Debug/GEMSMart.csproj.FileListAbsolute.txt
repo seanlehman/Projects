@@ -38,3 +38,9 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.csprojResolveAssemblyReference.cache
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.dll
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\EntityFramework.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\EntityFramework.SqlServer.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\EntityFramework.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\EntityFramework.SqlServer.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.Migrations.Initial.resources
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.csproj.GenerateResource.Cache
