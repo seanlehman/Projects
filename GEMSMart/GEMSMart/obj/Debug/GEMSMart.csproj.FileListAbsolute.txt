@@ -42,3 +42,7 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.dll
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.pdb
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Debug\GEMSMart.csprojResolveAssemblyReference.cache
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\PagedList.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\PagedList.Mvc.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\PagedList.xml
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin\PagedList.Mvc.xml
