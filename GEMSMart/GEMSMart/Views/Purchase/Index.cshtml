@@ -1,0 +1,58 @@
+﻿@model IEnumerable<GEMSMart.Models.Purchase>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Purchases</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Customer.PurchaseDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customer.FirstMidName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customer.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.ProductDesc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer.PurchaseDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer.FirstMidName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Product.ProductDesc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.PurchaseId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.PurchaseId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.PurchaseId })
+        </td>
+    </tr>
+}
+
+</table>
