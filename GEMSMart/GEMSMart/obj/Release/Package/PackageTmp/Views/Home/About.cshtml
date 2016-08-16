@@ -1,0 +1,30 @@
+﻿@model IEnumerable<GEMSMart.ViewModels.PurchaseDateGroup>
+
+@{
+    ViewBag.Title = "Purchase Statistics";
+}
+
+<h2>Purchase Statistics</h2>
+
+<table>
+    <tr>
+        <th>
+            Purchase Date
+        </th>
+        <th>
+            Customers
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PurchaseDate)
+            </td>
+            <td>
+                @item.CustomerCount
+            </td>
+        </tr>
+    }
+</table>

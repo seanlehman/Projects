@@ -1,0 +1,42 @@
+﻿@model GEMSMart.Models.Purchase
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Purchase</h2>
+
+<div>
+    <h4>Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Product.ProductDesc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Product.ProductDesc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductPrice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PurchaseId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

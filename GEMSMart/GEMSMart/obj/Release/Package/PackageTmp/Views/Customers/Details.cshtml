@@ -1,0 +1,79 @@
+﻿@model GEMSMart.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Customer</h2>
+
+<div>
+    <h4>Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstMidName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstMidName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchaseDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PurchaseDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchaseId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PurchaseId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Purchases)
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Product Description</th>
+                    <th>Price</th>
+                </tr>
+                @foreach (var item in Model.Purchases)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.ProductDesc)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductPrice)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CustomerId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

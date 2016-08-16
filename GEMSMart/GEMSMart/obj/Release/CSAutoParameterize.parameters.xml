@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StoreContext-Web.config Connection String" description="StoreContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\GEMSMart.mdf;Initial Catalog=GEMSMart.mdf;Integrated Security=SSPI;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Sean\ Lehman\\Documents\\Visual\ Studio\ 2015\\Projects\\GEMSMart\\GEMSMart\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StoreContext']/@connectionString" />
+  </parameter>
+</parameters>
