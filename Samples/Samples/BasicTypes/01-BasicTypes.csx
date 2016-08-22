@@ -8,7 +8,7 @@ char c = 'i';
 bool b = true;
 
 decimal d = 7.8;
-double dbl = 7.89
+double dbl = 7.89;
 float f = 10.8f;
 
 

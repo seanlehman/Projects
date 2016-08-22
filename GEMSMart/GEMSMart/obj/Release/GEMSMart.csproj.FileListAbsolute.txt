@@ -46,3 +46,5 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Release\GEMSMart.csprojResolveAssemblyReference.cache
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Release\GEMSMart.dll
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Release\GEMSMart.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Release\GEMSMart.Migrations.initial.resources
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\obj\Release\GEMSMart.csproj.GenerateResource.Cache

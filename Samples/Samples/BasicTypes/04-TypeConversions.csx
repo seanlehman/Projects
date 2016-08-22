@@ -11,7 +11,7 @@ var i1 = int.Parse("123");
 int i1;
 var success = int.TryParse("123", out i1);
 
-// Convert numbr to string
+// Convert number to string
 // 123.ToString()
 
 //

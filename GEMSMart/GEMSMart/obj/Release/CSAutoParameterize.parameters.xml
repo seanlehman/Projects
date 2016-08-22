@@ -3,4 +3,7 @@
   <parameter name="StoreContext-Web.config Connection String" description="StoreContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\GEMSMart.mdf;Initial Catalog=GEMSMart.mdf;Integrated Security=SSPI;" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="C:\\Users\\Sean\ Lehman\\Documents\\Visual\ Studio\ 2015\\Projects\\GEMSMart\\GEMSMart\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StoreContext']/@connectionString" />
   </parameter>
+  <parameter name="StoreContext_DatabasePublish-Web.config Connection String" description="StoreContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="StoreContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Sean\ Lehman\\Documents\\Visual\ Studio\ 2015\\Projects\\GEMSMart\\GEMSMart\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StoreContext_DatabasePublish']/@connectionString" />
+  </parameter>
 </parameters>
