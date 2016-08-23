@@ -21,6 +21,7 @@ namespace ContosoUniversity.Models
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         [Display(Name = "Enrollment Date")]
         public DateTime EnrollmentDate { get; set; }
+        public string Secret { get; set; }
 
         [Display(Name = "Full Name")]
         public string FullName
