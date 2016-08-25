@@ -20,7 +20,6 @@ else
 
 //Array of days with for loop
 
-
 string[] days = new string[7] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
 
 Console.WriteLine("The days of the week are:");
