@@ -20,3 +20,11 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_U
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\bin\Debug\ElevenNote.Data.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedLogEntriesTable.resources
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb

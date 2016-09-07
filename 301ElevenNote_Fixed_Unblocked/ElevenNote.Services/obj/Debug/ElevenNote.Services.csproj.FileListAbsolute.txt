@@ -16,3 +16,6 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_U
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\ElevenNote_Fixed_Unblocked\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
