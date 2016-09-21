@@ -1,5 +1,0 @@
-C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\bin\Release\ElevenNote.Models.dll
-C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\bin\Release\ElevenNote.Models.pdb
-C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Models\obj\Release\ElevenNote.Models.csprojResolveAssemblyReference.cache
-C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Models\obj\Release\ElevenNote.Models.dll
-C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\301ElevenNote_Fixed_Unblocked\ElevenNote.Models\obj\Release\ElevenNote.Models.pdb
