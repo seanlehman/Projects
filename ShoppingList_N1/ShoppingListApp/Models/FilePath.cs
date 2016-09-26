@@ -5,14 +5,6 @@ using System.Web;
 
 namespace ShoppingListApp.Models
 {
-    public class FilePath
-    {
-    }
-}
-
-
-namespace ShoppingListApp.Models
-{
     using System.ComponentModel.DataAnnotations;
     public class FilePath
     {
@@ -20,7 +12,7 @@ namespace ShoppingListApp.Models
         [StringLength(255)]
         public string FileName { get; set; }
         public FileType FileType { get; set; }
-        public int PersonID { get; set; }
-        public virtual Person Person { get; set; }
+        public int ShoppingListItemId { get; set; }
+        public virtual ShoppingListItem ShoppingListItem { get; set; }
     }
 }

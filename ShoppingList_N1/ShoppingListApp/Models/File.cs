@@ -13,8 +13,8 @@ namespace ShoppingListApp.Models
         public string ContentType { get; set; }
         public byte[] Content { get; set; }
         public FileType FileType { get; set; }
-        public int PersonId { get; set; }
-        public virtual Person Person { get; set; }
+        public int ShoppingListItemId { get; set; }
+        public virtual ShoppingListItem ShoppingListItem { get; set; }
     }
 }
 

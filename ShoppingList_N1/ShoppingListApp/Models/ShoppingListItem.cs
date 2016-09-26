@@ -4,9 +4,10 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
+
 namespace ShoppingListApp.Models
 {
-    public class ShoppingListItem
+    public abstract class ShoppingListItem
     {
         public int Id { get; set; }
 
@@ -27,5 +28,8 @@ namespace ShoppingListApp.Models
         public virtual ShoppingList ShoppingList { get; set; }
         
         public int Options { get; set; }
+        public virtual ICollection<File> Files { get; set; }
+
     }
+
 }
