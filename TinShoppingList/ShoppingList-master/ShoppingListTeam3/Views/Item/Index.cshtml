@@ -1,0 +1,265 @@
+﻿@model ShoppingListTeam3.Models.ItemWithNoteViewModel
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a href="@Url.Action("Index", "ShoppingList")" class="btn btn-primary btn-lg">
+        <span class="glyphicon glyphicon-arrow-left"></span> &nbsp;
+    </a>
+    <div>
+        @Html.ActionLink("Create New Item", "Create", new { shoppingListID = ViewBag.shoppingListID }, new { @class = " btn-primary btn-sm" })
+        @Html.ActionLink("Clear Items", "Clear", new { shoppingListID = ViewBag.shoppingListID }, new { onclick = "return confirm('Do you really want to clear all the items in this list?')", @class = " btn-primary btn-sm" })
+    </div>
+
+</p>
+<table class="table" style="vertical-align:middle">
+    <tr>
+        <th></th>
+        <th>
+            Image
+        </th>
+        <th>
+            Content
+        </th>
+        <th>
+            Priority
+        </th>
+        <th>
+            Created Date
+        </th>
+        <th>
+            Modified Date
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Items)
+    {
+        string selectedRow = "";
+        if (item.ID == ViewBag.itemID)
+        {
+            selectedRow = "success";
+        }
+        <tr class="@selectedRow" style="color:@item.Color">
+            <td>
+                @Html.DisplayFor(modelItem => item.IsChecked, new { Id = item.ID })
+            </td>
+            <td>
+                <img src="~/@String.Format($"Content/Item/{item.ID}.jpg")" alt="No Image" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @item.ConvertToPriorityMessage(item.Priority)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedUtc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedUtc)
+            </td>
+            <td>
+                @Html.ActionLink("Select", "Index", new { id = item.ID, shoppingListID = ViewBag.shoppingListID }, new { @class = "btn btn-primary btn-sm" })
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID, shoppingListID = ViewBag.shoppingListID }, new { @class = "btn btn-primary btn-sm" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID, ViewBag.shoppingListID }, new { @class = "btn btn-primary btn-sm" })
+            </td>
+        </tr>
+    }
+
+</table>
+@if (Model.Note != null)
+{
+    <h3>Note Detail</h3>
+    <table class="table">
+        <tr>
+            <th>Body</th>
+            <th>Created Date</th>
+            <th>Modified Date</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td id="row">
+                <p id="content">@Model.Note.Body.TrimEnd()</p>
+            </td>
+            <td>
+                @functions{
+                    public string DisplayDateTimeOffset(DateTimeOffset? input)
+                    {
+                        var timeZoneOffset = (Request.Cookies["timeZoneOffset"] != null) ? int.Parse(Request.Cookies["timeZoneOffset"].Value) : 0;
+                        return (input != null) ? input.Value.Add(new TimeSpan(0, -timeZoneOffset, 0)).ToString("G") : "Unknown";
+                    }
+
+
+                }
+                @DisplayDateTimeOffset(Model.Note.CreatedUtc)
+            </td>
+            <td>
+                @DisplayDateTimeOffset(Model.Note.ModifiedUtc)
+            </td>
+            <td>
+                <button class="btn btn-primary btn-sm" id="edit">Edit</button>
+                @Html.ActionLink("Delete", "../Note/Delete", new { id = Model.Note.ItemId, shoppingListID = ViewBag.shoppingListID },
+               new { onclick = "return confirm('Do you really want to delete this note?')", @class = "btn btn-primary btn-sm" })
+            </td>
+        </tr>
+    </table>
+    <div id="buttonGroup" style="display: none">
+        <button class="btn btn-primary btn-sm" id="save">Save</button>
+        <button class="btn btn-primary btn-sm" id="discard">Cancel</button>
+    </div>
+}
+else
+{
+    if (ViewBag.itemID != null)
+    {
+        <div id="1">
+            There is no note associated to this item.<br />
+            <button class = "btn btn-primary btn-sm" id="create">Create</button>
+        </div>
+        <div id="2" style="display: none">
+            Content<br />
+            <textarea rows="4" cols="50"></textarea><br />
+            <button  class = "btn btn-primary btn-sm" id="confirm">Create</button>
+            <button class = "btn btn-primary btn-sm" id="cancel">Cancel</button>
+        </div>
+    }
+}
+
+<br />
+
+
+Page @(Model.Items.PageCount < Model.Items.PageNumber ? 0 : Model.Items.PageNumber) of @Model.Items.PageNumber
+
+@Html.PagedListPager(Model.Items, page => Url.Action("Index", new { page }))
+
+@section scripts {
+    <script language="javascript" type="text/javascript">
+        function isEmpty() {
+            if ($('textarea').val() === '') {
+                alert("Note content cannot be empty!")
+                return false
+            }
+            else
+                return true
+        }
+
+        function getIdFromURL() {
+            var str = window.location.href;
+            return str.split("/")[5].split("?")[0];
+        }
+
+        $(document).ready(function () {
+            $('img').error(function () {
+                $(this).attr('src', '/Content/Item/NoImage.jpg');
+            });
+
+
+            $("i[data-toggle='check']")
+                .css({ "cursor": "pointer" })
+                .click(function (e) {
+                    var target = $(e.target);
+                    var itemId = target.attr("data-id");
+                    var checkSet = target.hasClass("glyphicon-check");
+
+                    $.ajax({
+                        method: checkSet ? "DELETE" : "POST",
+                        url: "/api/Item/" + itemId,
+                        data: null
+                    })
+                    .done(function (r) { target.removeClass(); target.addClass("glyphicon " + (checkSet ? "glyphicon-unchecked" : "glyphicon-check")); })
+                    .fail(function (r) { alert("Failed to change check status"); });
+                });
+            $('[data-toggle="tooltip"]').tooltip();
+
+            $('#create').click(function () {
+                $('#1').hide()
+                $('#2').show()
+            })
+
+            $('#cancel').click(function () {
+                $('#1').show()
+                $('#2').hide()
+                $('textarea').val("")
+            })
+
+            $('#confirm').click(function () {
+                if ($('textarea').val() === '') 
+                    alert("Note content cannot be empty!")
+                else {
+                    var itemId = getIdFromURL()
+                    var noteBody = $('textarea').val()
+                    var time = 0;
+
+                    $.ajax({
+                        method: "POST",
+                        url: "/Note/Create",
+                        data: '{itemId: "' + itemId + '", noteBody: "' + noteBody + ' "}',
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json"
+                    })
+                    setInterval(function () {
+                        $('#2').html("<h4>Creating...</h4><br/><progress max='1000' value='" + time + "'></progress>")
+                        time += 100
+                    }, 10);
+
+                    setTimeout(function () {
+                        location.reload()
+                    }, 800)
+
+                    //.fail(function (r) { alert("Fail to create a new note"); });               
+                }
+
+            })
+
+            $('#edit').click(function () {
+                var content = $('#content').text()
+                $('#row').html("<textarea id = 'content' rows = 4 cols = 50>" + content + "</textarea>")
+                $('#buttonGroup').show()
+            })
+
+            $('#discard').click(function () {
+                var content = $('#content').val()
+                $('#row').html("<p id = 'content'>" + content + "</p>")
+                $('#buttonGroup').hide()
+            })
+
+            $('#save').click(function () {
+                if ($('textarea').val() === '')
+                    alert("Note content cannot be empty!")
+                else {
+                    var itemId = getIdFromURL()
+                    var noteBody = $('textarea').val()
+                    var time = 0;
+
+                    $.ajax({
+                        method: "POST",
+                        url: "/Note/Edit",
+                        data: '{itemId: "' + itemId + '", noteBody: "' + noteBody + '"}',
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json"
+                    })
+
+                    $('#buttonGroup').hide()
+
+                    setInterval(function () {
+                        $('#row').html("<h4>Edit...</h4><br/><progress max='1000' value='" + time + "'></progress>")
+                        time += 100
+                    }, 10);
+
+                    setTimeout(function () {
+                        location.reload()
+                    }, 800)
+
+                    //.fail(function (r) { alert("Fail to edit the note"); });
+                }
+
+            })
+        });
+    </script>
+}  
